@@ -13,6 +13,7 @@ The repository is organized as follows:
   - **Occurrences**: Contains four subfolders, one for each type of book (male, female, mixed). Each subfolder contains CSV files with word occurrences for individual books. An additional subfolder (`txt_merged`) consolidates data into three CSV files for each book category.
   - **TXT**: Stores OCR results for each book category.
   - A special file named `liste_francais.txt` provides data used for comparative OCR analysis.
+  - **Rapport.pdf** : Report of the project.
 
 - **Git-LFS**: Configuration folder to manage large files within the repository.
 
