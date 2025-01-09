@@ -2,7 +2,7 @@
 
 # Code Repository
 
-This GitHub repository contains all the code and computational tools used in this research project. Below is a description of the repository structure and the libraries utilized.
+This GitHub repository contains all the code and computational tools used in this research project. Below is a description of the repository structure and the libraries used.
 
 ## Global Architecture
 
@@ -18,7 +18,7 @@ The repository is organized as follows:
 
 - **Notebooks**: Contains Jupyter notebooks used for visualizations and advanced analyses, including the interactive complex LDA model.
 
-- **Scripts**: Includes all the functions utilized in the notebooks and the main project execution scripts.
+- **Scripts**: Includes all the functions used in the notebooks and the main project execution scripts.
 
 *Note*: The original source files (PDFs and JPG images) totaling approximately 24 GB are not included in this repository due to their size. These files are stored locally.
 
