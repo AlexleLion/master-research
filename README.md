@@ -20,7 +20,7 @@ The repository is organized as follows:
 
 - **Scripts**: Includes all the functions used in the notebooks and the main project execution scripts.
 
-- - Rapport.pdf : Report of the project.
+- Rapport.pdf : Report of the project.
 
 *Note*: The original source files (PDFs and JPG images) totaling approximately 24 GB are not included in this repository due to their size. These files are stored locally.
 
